@@ -7,3 +7,7 @@ This program has been developed with a view to extract image, gif and video file
 2. Run the command to install the requirements files. For Linux and Mac `pip3 install -r requirements.txt`, for Windows `pip install -r requirements.txt`
 3. Now you're ready to run the program by running this command. Linux and Mac `python3 har_extractor.py`, Windows `python har_extractor.py`
 4. Select your **har** file and it will dump the organized file on the same directory. 
+
+Note:
+I created this fork due to compatibility errors with current python, specifically the NumPy package. 
+I aim to just iron them out and any other errors I find and bring it up to date.
